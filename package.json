@@ -1,0 +1,26 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "Learn TypeScript",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachlegend/ts-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachlegend/ts-book/issues"
+  },
+  "homepage": "https://github.com/rachlegend/ts-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^6.0.0-alpha.1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.3",
+    "typescript": "^4.9.5"
+  }
+}
